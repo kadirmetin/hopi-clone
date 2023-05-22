@@ -3,10 +3,9 @@
 Bu proje, "Hopi" adlı popüler bir alışveriş uygulamasının bir kopyasıdır. Uygulama, kullanıcıların üye olmalarına ve giriş yapmalarına, çeşitli ürünleri keşfetmelerine olanak tanır.
 
 <div align="center">
-  <img src="https://play-lh.googleusercontent.com/3qy-JNrELawQBPIoSJk1cIvfHDavmlhRE-Rrjc7KSlTXgYLXcpKJ73PQW37wyiFjvMw=w2560-h1440-rw" alt="Copy Screenshot 1" width="auto" height="400" />
-  <img src="https://play-lh.googleusercontent.com/4UV_VFGp6eekMLcfawlhLQa6nqoQWon5ZDBHw1QuckAMidp9Nnct8GXKepMLpb3Do5g=w2560-h1440-rw" alt="Copy Screenshot 2" width="auto" height="400" />
-  <img src="https://play-lh.googleusercontent.com/hAnj0B5ktFZn6JdAXS2fXuGmvCxLP-JxuaE4kUC3ym_ZNSapm3sf2OBG_87nIZLOsU8=w2560-h1440-rw" alt="Copy Screenshot 3" width="auto" height="400" />
-  <img src="https://play-lh.googleusercontent.com/lVm_m7g1xGy4TThEvNkIXTpMIAHR8lCnP_QXHOzb0nIwt418WqySe2R66zv_UbN1qrA=w2560-h1440-rw" alt="Copy Screenshot 4" width="auto" height="400" />
+  <img src="https://play-lh.googleusercontent.com/4UV_VFGp6eekMLcfawlhLQa6nqoQWon5ZDBHw1QuckAMidp9Nnct8GXKepMLpb3Do5g=w2560-h1440-rw" alt="Copy Screenshot 1" width="auto" height="400" />
+  <img src="https://play-lh.googleusercontent.com/hAnj0B5ktFZn6JdAXS2fXuGmvCxLP-JxuaE4kUC3ym_ZNSapm3sf2OBG_87nIZLOsU8=w2560-h1440-rw" alt="Copy Screenshot 2" width="auto" height="400" />
+  <img src="https://play-lh.googleusercontent.com/lVm_m7g1xGy4TThEvNkIXTpMIAHR8lCnP_QXHOzb0nIwt418WqySe2R66zv_UbN1qrA=w2560-h1440-rw" alt="Copy Screenshot 3" width="auto" height="400" />
 </div>
 
 ## Özellikler
