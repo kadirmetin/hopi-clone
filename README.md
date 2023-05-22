@@ -25,12 +25,11 @@ Bu proje, "Hopi" adlı popüler bir alışveriş uygulamasının bir kopyasıdı
 
 ## Teknolojiler
 
-- React
+- React Native
+- Expo
 - Redux
 - i18n
 - Firebase
-- JavaScript
-- CSS
 
 ## Katkıda Bulunma
 
