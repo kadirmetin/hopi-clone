@@ -1,0 +1,101 @@
+{
+  "login": {
+    "mail": "E-Mail Address",
+    "password": "Password",
+    "button": "CONTINUE",
+    "signup": "Not a member yet? Sign up."
+  },
+  "signup": {
+    "topText": "Hopi knows you from your pocket!",
+    "topText2": "You should write the email address and password you want to use for your Hopi membership in the field below.",
+    "mail": "E-Mail Address",
+    "password": "Password",
+    "button": "CONTINUE",
+    "login": "Already a member? Log in."
+  },
+  "welcome": {
+    "topText": "Welcome Kadir",
+    "topText2": "What do you want to do with Hopi?"
+  },
+  "search": {
+    "input": "Search for brand or campaign"
+  },
+  "welcomeBar": {
+    "hello": "Hello",
+    "clientParacik": "You have Paracık.",
+    "paracik": "1 Paracık = 1₺ and you can use it.",
+    "goParacik": "Go to My Paracık."
+  },
+  "offerBar": {
+    "offer": "View Offer"
+  },
+  "myOffersSlider": {
+    "myOffer": "My Offers",
+    "seeAll": "See All"
+  },
+  "clickWinItems": {
+    "clickWin": "Click to Win",
+    "seeAll": "See All",
+    "win": "Win"
+  },
+  "lovemarksCollection": {
+    "brandsLove": "Brands You May Love",
+    "seeAll": "See All"
+  },
+  "loveCategories": {
+    "categoriesLove": "Categories You May Love"
+  },
+  "offers": {
+    "offerText": "See All Offers"
+  },
+  "myQRCode": {
+    "text": "You can benefit from the offers by scanning the QR code at the checkout or by typing the code below for online shopping.",
+    "text1": "55 seconds",
+    "text2": "QR code will be refreshed in!",
+    "text4": "Scan QR"
+  },
+  "myWallet": {
+    "topText": "TOTAL",
+    "gift": "GIFT",
+    "fuel": "FUEL",
+    "midText": "You can spend at least 1.50 TL at all brands that have an agreement with Hopi.",
+    "text4": "SEND PARACIK"
+  },
+  "balance": {
+    "text1": "Hopipay is a free virtual card that you can easily load money into and use for spending anywhere you want. With this card, you can:",
+    "text2": "Spend your money at Hopi-affiliated brands.",
+    "text3": "Send money to your friends instantly.",
+    "text4": "Shop easily on all e-commerce sites.",
+    "text5": "ACTIVATE YOUR HOPİPAY CARD"
+  },
+  "cards": {
+    "text1": "My Credit / Debit Cards",
+    "text2": "Save your cards to Masterpass and easily pay with Hopi mobile payment.",
+    "text3": "Link Your Masterpass Account",
+    "text4": "My Transportation Cards",
+    "text5": "Load your Istanbulkart with Paracık by adding it to your cards.",
+    "text6": "Add Istanbulkart"
+  },
+  "myAccount": {
+    "text1": "Notifications",
+    "text2": "My Lists",
+    "text3": "Customer Service"
+  },
+  "categoryTopRouter": {
+    "name1": "Offers",
+    "name2": "Brands"
+  },
+  "walletTopRouter": {
+    "name1": "Paracık Balance",
+    "name2": "TL Balance",
+    "name3": "My Cards"
+  },
+  "router": {
+    "name1": "Home",
+    "name2": "Categories",
+    "name3": "My QR Code",
+    "name4": "My Wallet",
+    "name5": "My Account",
+    "headerText": "Transaction History"
+  }
+}

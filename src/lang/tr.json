@@ -1,0 +1,101 @@
+{
+  "login": {
+    "mail": "E-Mail Adresi",
+    "password": "Şifre",
+    "button": "DEVAM ET",
+    "signup": "Üye değil misiniz? Üye Olun."
+  },
+  "signup": {
+    "topText": "Hopi'n seni cebinden tanır!",
+    "topText2": "Hopi üyeliğin için kullanmak istediğin email adresini ve parolanı aşağıdaki alana yazmalısın.",
+    "mail": "E-Mail Adresi",
+    "password": "Şifre",
+    "button": "DEVAM ET",
+    "login": "Zaten üye misiniz? Giriş Yapın."
+  },
+  "welcome": {
+    "topText": "Hoş Geldin Kadir",
+    "topText2": "Hopi'nle ne yapmak istersin?"
+  },
+  "search": {
+    "input": "Marka veya kampanya ara"
+  },
+  "welcomeBar": {
+    "hello": "Merhaba",
+    "clientParacik": "Paracık'ın var.",
+    "paracik": "1 Paracık = 1₺ değerinde kullanabilirsin.",
+    "goParacik": "Paracıklarıma Git."
+  },
+  "offerBar": {
+    "offer": "Teklifi İncele"
+  },
+  "myOffersSlider": {
+    "myOffer": "Tekliflerim",
+    "seeAll": "Tümünü Gör"
+  },
+  "clickWinItems": {
+    "clickWin": "Tıkla Kazan",
+    "seeAll": "Tümünü Gör",
+    "win": "Kazan"
+  },
+  "lovemarksCollection": {
+    "brandsLove": "Sevebileceğin Markalar",
+    "seeAll": "Tümünü Gör"
+  },
+  "loveCategories": {
+    "categoriesLove": "Sevebileceğin Kategoriler"
+  },
+  "offers": {
+    "offerText": "Tüm Teklifleri Gör"
+  },
+  "myQRCode": {
+    "text": "QR kodu kasada okutarak veya internet alışverişinde altındaki kodu yazarak tekliflerden faydalanabilirsin.",
+    "text1": "55 saniye",
+    "text2": "içinde QR kodun yenilecenek!",
+    "text4": "QR Okut"
+  },
+  "myWallet": {
+    "topText": "TOPLAM",
+    "gift": "HEDİYE",
+    "fuel": "AKARYAKIT",
+    "midText": "Hopi ile anlaşmalı tüm markalarda minimum 1,50 TL değerinde harcayabilirsin.",
+    "text4": "PARACIK GÖNDER"
+  },
+  "balance": {
+    "text1": "Hopipay kart içine kolayca para yükleyerek istediğin her yerde harcama yapabildiğin ücretsiz bir sanal karttır. Bu kartinla;",
+    "text2": "Hopi ile anlaşmalı markalarda paranı kat kat harcayabilirsin.",
+    "text3": "Arkadaşlarına anında para gönderebilirsin.",
+    "text4": "Tüm e-ticaret sitelerinde kolayca alışveriş yapabilirsin.",
+    "text5": "HOPİPAY KARTINI AKTİVE ET"
+  },
+  "cards": {
+    "text1": "Kredi / Banka Kartlarım",
+    "text2": "Masterpass'e kartlarını kaydet alışverişlerini Hopi mobil ödeme ile kolayca yap.",
+    "text3": "Masterpass Hesabını İlişkilendir",
+    "text4": "Ulaşım Kartlarım",
+    "text5": "İstanbulkart'ini kaydederek kartlarına Paracık ile yükleme yapabilirsin.",
+    "text6": "İstanbulkart Ekle"
+  },
+  "myAccount": {
+    "text1": "Bildirimler",
+    "text2": "Listelerim",
+    "text3": "Müşteri Hizmetleri"
+  },
+  "categoryTopRouter": {
+    "name1": "Teklifler",
+    "name2": "Markalar"
+  },
+  "walletTopRouter": {
+    "name1": "Paracık Bakiye",
+    "name2": "TL Bakiye",
+    "name3": "Kartlarım"
+  },
+  "router": {
+    "name1": "Ana Sayfa",
+    "name2": "Kategoriler",
+    "name3": "QR Kodum",
+    "name4": "Cüzdanım",
+    "name5": "Hesabım",
+    "headerText": "İşlem Geçmişi"
+  }
+}
