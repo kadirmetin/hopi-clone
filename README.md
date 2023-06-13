@@ -1,6 +1,6 @@
 # Hopi - Copy (Clone)
 
-Bu proje, "Hopi" adlı popüler bir alışveriş uygulamasının bir kopyasıdır. Uygulama, kullanıcıların üye olmalarına ve giriş yapmalarına, çeşitli ürünleri keşfetmelerine olanak tanır.
+This project is a clone of the popular shopping application called "Hopi." The application allows users to sign up and log in, and explore various products.
 
 <div align="center">
   <img src="https://play-lh.googleusercontent.com/4UV_VFGp6eekMLcfawlhLQa6nqoQWon5ZDBHw1QuckAMidp9Nnct8GXKepMLpb3Do5g=w2560-h1440-rw" alt="Copy Screenshot 1" width="auto" height="400" />
@@ -8,22 +8,22 @@ Bu proje, "Hopi" adlı popüler bir alışveriş uygulamasının bir kopyasıdı
   <img src="https://play-lh.googleusercontent.com/lVm_m7g1xGy4TThEvNkIXTpMIAHR8lCnP_QXHOzb0nIwt418WqySe2R66zv_UbN1qrA=w2560-h1440-rw" alt="Copy Screenshot 3" width="auto" height="400" />
 </div>
 
-## Özellikler
+## Features
 
-- Üye olma ve giriş yapma: Kullanıcılar, uygulamaya üye olup giriş yapabilmektedir.
-- Yakındaki mağazaları görebilme: Kullanıcalar, yakınında bulunan üye mağazaları görebilmektedir.
-- Farklı dillerde kullanma: Kullanıcılar, uygulamayı istediği dilde (Henüz İngilizce ve Türkçe) kullanabilmektedir.
+- Sign up and log in: Users can sign up and log in to the application.
+- View nearby stores: Users can view member stores near their location.
+- Multilingual support: Users can use the application in their preferred language (currently available in English and Turkish).
 
-## Kurulum
+## Installation
 
-1. Bu projeyi klonlayın: `git clone https://github.com/kadirmetin/hopi-clone.git`
-2. Proje dizinine gidin: `cd hopi-clone`
-3. Gerekli paketleri yüklemek için aşağıdaki komutu çalıştırın: `yarn install`
-4. Firebase yapılandırmasını gerçekleştirmek için `.config.js` dosyasına Firebase kimlik doğrulama bilgilerinizi ekleyin.
-5. Geliştirme sunucusunu başlatmak için `yarn start` komutunu çalıştırın.
-6. Emulatorde uygulamayı görüntüleyin.
+1. Clone this project: `git clone https://github.com/kadirmetin/hopi-clone.git`
+2. Navigate to the project directory: `cd hopi-clone`
+3. Run the following command to install the required packages: `yarn install`
+4. Add your Firebase authentication credentials to the `.config.js` file to configure Firebase.
+5. Start the development server by running the command: `yarn start`
+6. View the application on the emulator.
 
-## Teknolojiler
+## Technologies
 
 - React Native
 - Expo
@@ -31,10 +31,10 @@ Bu proje, "Hopi" adlı popüler bir alışveriş uygulamasının bir kopyasıdı
 - i18n
 - Firebase
 
-## Katkıda Bulunma
+## Contribution
 
-Bu proje şu anda kişisel gelişim amacıyla oluşturulmuş olup katkıda bulunmak için açık değildir. Ancak projeyi forklayarak kendi geliştirmelerinizi yapabilirsiniz.
+This project is currently created for personal development purposes and is not open for contributions. However, you can fork the project and make your own improvements.
 
-## Lisans
+## License
 
-Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için [LICENSE dosyasını](LICENSE) inceleyin.
+This project is licensed under the MIT License. For more information, see the [LICENSE file](LICENSE).
